@@ -2,11 +2,11 @@ Datenschutzerklärung
 
 1. Allgemeine Informationen
 
-Wir, die Entwickler der App "Europa", nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Der Schutz Ihrer Privatsphäre bei der Nutzung unserer App ist uns ein wichtiges Anliegen. In dieser Datenschutzerklärung möchten wir Sie darüber informieren, dass unsere App keinerlei Daten von Ihnen sammelt oder verarbeitet.
+Wir, die Entwickler der App "FLAGGEN", nehmen den Schutz Ihrer persönlichen Daten sehr ernst. Der Schutz Ihrer Privatsphäre bei der Nutzung unserer App ist uns ein wichtiges Anliegen. In dieser Datenschutzerklärung möchten wir Sie darüber informieren, dass unsere App keinerlei Daten von Ihnen sammelt oder verarbeitet.
 
 2. Keine Datensammlung und -verarbeitung
 
-Die App "Europa" sammelt, speichert oder verarbeitet keine persönlichen Daten. Wir erheben keine Informationen über Sie oder Ihre Nutzung der App. Insbesondere werden keine personenbezogenen Daten wie Name, Adresse, E-Mail-Adresse oder Nutzungsverhalten gesammelt.
+Die App "FLAGGEN" sammelt, speichert oder verarbeitet keine persönlichen Daten. Wir erheben keine Informationen über Sie oder Ihre Nutzung der App. Insbesondere werden keine personenbezogenen Daten wie Name, Adresse, E-Mail-Adresse oder Nutzungsverhalten gesammelt.
 
 3. Keine Weitergabe von Daten
 
@@ -22,4 +22,4 @@ Sollten Sie Fragen zu dieser Datenschutzerklärung oder zum Datenschutz in unser
 
 6. Gültigkeit der Datenschutzerklärung
 
-Diese Datenschutzerklärung ist gültig ab dem 22. Mai 2024.
+Diese Datenschutzerklärung ist gültig ab dem 19. Juni 2024.

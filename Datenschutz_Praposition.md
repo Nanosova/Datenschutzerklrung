@@ -8,6 +8,10 @@ Wir, die Entwickler der App "PRÄPOSITION", nehmen den Schutz Ihrer persönliche
 
 Die App "PRÄPOSITION" sammelt, speichert oder verarbeitet keine persönlichen Daten. Wir erheben keine Informationen über Sie oder Ihre Nutzung der App. Insbesondere werden keine personenbezogenen Daten wie Name, Adresse, E-Mail-Adresse oder Nutzungsverhalten gesammelt.
 
+    Google Play-Richtlinien
+
+Die App "PRÄPOSITION" hat sich verpflichtet, den Google Play-Richtlinien für familienfreundliche Inhalte zu folgen.
+
     Keine Weitergabe von Daten
 
 Da unsere App keine Daten sammelt oder speichert, erfolgt auch keine Weitergabe von Daten an Dritte. Ihre Privatsphäre ist somit jederzeit vollständig geschützt.

@@ -22,4 +22,4 @@ Sollten Sie Fragen zu dieser Datenschutzerklärung oder zum Datenschutz in unser
 
 6. Gültigkeit der Datenschutzerklärung
 
-Diese Datenschutzerklärung ist gültig ab dem 19. Juni 2024.
+Diese Datenschutzerklärung ist gültig ab dem 3. März 2025.
